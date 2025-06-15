@@ -158,8 +158,8 @@ p {
     position: relative;
     overflow: hidden;
     z-index: 5;
-    -webkit-transition: 0.4s ease-in-out;
-    transition: 0.4s ease-in-out;
+    -webkit-transition: 0.1s ease-in-out;
+    transition: 0.1s ease-in-out;
     background-color: #ffc600;
 }
 .main-btn:hover{
@@ -533,8 +533,8 @@ p {
     font-weight: 700;
     color: #074d19;
     text-transform: uppercase;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
     padding: 25px 0;
 }
 
@@ -551,8 +551,8 @@ p {
     width: 200px;
     opacity: 0;
     visibility: hidden;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
     z-index: 99;
 }
 .navigation .navbar .navbar-nav li:hover .sub-menu{
@@ -587,8 +587,8 @@ p {
 .navbar .navbar-toggler {
 	padding: 3px 8px;
 	margin: 18px 0;
-     -webkit-transform: all 0.4s linear;
-    transform: all 0.4s linear;
+     -webkit-transform: all 0.1s linear;
+    transform: all 0.1s linear;
 }
 
 .navbar .navbar-toggler .icon-bar {
@@ -598,8 +598,8 @@ p {
 	display: block;
 	margin: 5px 0;
     position: relative;
-     -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+     -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 
 .navbar .navbar-toggler.active .icon-bar:nth-of-type(1){
@@ -821,8 +821,8 @@ p {
     z-index: 5;
     opacity: 0;
     visibility: hidden;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .slider-active .next.slick-arrow {
     left: auto;
@@ -1040,8 +1040,8 @@ p {
     font-size: 24px;
     color: #fff;
     cursor: pointer;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .category-slied .slick-arrow i:hover{
     background-color: #ffc600;
@@ -1118,8 +1118,8 @@ p {
     padding-bottom: 10px;
     color: #000;
     font-size: 24px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .about-event ul li .singel-event a:hover h4{
     color: #ffc600;
@@ -1184,8 +1184,8 @@ p {
 .singel-course .thum .image img{
     width: 100%;
     height: 250px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-course:hover .thum .image img{
     -webkit-transform: scale(1.1);
@@ -1238,8 +1238,8 @@ p {
     color: #000;
     padding-top: 15px;
     padding-bottom: 40px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-course .cont h4:hover{
     color: #ffc600;
@@ -1267,8 +1267,8 @@ p {
 .singel-course .course-teacher .name a h6{
     font-size: 15px;
     color: #24486e;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-course .course-teacher .name a:hover h6{
     color: #ffc600;
@@ -1291,8 +1291,8 @@ p {
 .singel-course .course-teacher .admin ul li a{
     font-size: 15px;
     color: #8a8a8a;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-course .course-teacher .admin ul li a:hover{
     color: #ffc600;
@@ -1323,8 +1323,8 @@ p {
     font-size: 18px;
     text-align: center;
     cursor: pointer;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 
 .course-slied .slick-arrow:hover i{
@@ -1416,8 +1416,8 @@ p {
     overflow: hidden;
 }
 .singel-teachers .image img{
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
     width: 100%;
     height: 250px;
 }
@@ -1443,8 +1443,8 @@ p {
 .singel-teachers .cont a h6{
     color: #000;
     font-size: 15px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-teachers .cont a:hover h6{
     color: #ffc600;
@@ -1481,8 +1481,8 @@ p {
     height: 100%;
     background-color: rgba(7, 41, 77, 0.8);
     opacity: 0;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-publication .image:hover .add-cart{
     opacity: 1;
@@ -1506,8 +1506,8 @@ p {
     line-height: 35px;
     border: 1px solid #ffc600;
     text-align: center;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-publication .image .add-cart ul li a:hover{
     background-color: #ffc600;
@@ -1535,8 +1535,8 @@ p {
 }
 .singel-publication .cont .name a h6{
     font-size: 14px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-publication .cont .name a:hover h6{
     color: #ffc600;
@@ -1685,8 +1685,8 @@ p {
     color: #000;
     padding-bottom: 20px;
     padding-top: 10px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-news .news-cont a:hover h3{
     color: #ffc600;
@@ -1731,15 +1731,15 @@ p {
     border-radius: 50%;
     text-align: center;
     background-color: #021d3a;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
     
 }
 .footer-about ul li a:hover{
     background-color: #ffc600;
     color: #021d3a;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
     
 }
 
@@ -1763,14 +1763,14 @@ p {
 .footer-link ul li a{
     color: #fff;
     font-size: 15px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .footer-link ul li a i{
     margin-right: 8px;
     color: #ffc600;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .footer-link ul li a:hover {
     color: #ffc600;
@@ -1829,8 +1829,8 @@ p {
     border-radius: 5px;
     z-index: 99;
     text-align: center;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
     display: none;
 }
 .back-to-top:hover{
@@ -1877,8 +1877,8 @@ p {
 .category-2-items .singel-items .items-cont h5{
     color: #fff;
     font-size: 18px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .category-2-items .singel-items .items-cont span{
     font-size: 14px;
@@ -1994,8 +1994,8 @@ p {
 }
 .singel-course-2 > .thum .course-teacher .name h6{
     color: #fff;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-course-2 > .thum .course-teacher .name h6:hover{
     color: #ffc600;
@@ -2021,8 +2021,8 @@ p {
     font-weight: 600;
     font-weight: 24px;
     color: #000;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-course-2 .cont h4:hover{
     color: #ffc600;
@@ -2088,8 +2088,8 @@ p {
 .teachers-2 .teachers-2-singel .cont a h5{
     font-size: 18px;
     color: #000;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .teachers-2 .teachers-2-singel .cont a:hover h5{
     color: #ffc600;
@@ -2213,8 +2213,8 @@ p {
 	padding-bottom: 10px;
 	color: #fff;
 	font-size: 24px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .event-2 ul li .singel-event a:hover h4 {
     color: #ffc600;
@@ -2435,8 +2435,8 @@ p {
     border: 2px solid #aaa;
     border-radius: 5px;
     text-align: center;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .courses-pagination .pagination .page-item a.active,
 .courses-pagination .pagination .page-item a:hover{
@@ -2696,8 +2696,8 @@ p {
     background-color: #24486e;
     color: #fff;
     text-align: center;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .instructor-cont .instructor-author .author-name .social li a:hover{
     background-color: #fff;
@@ -2915,8 +2915,8 @@ p {
     font-size: 18px;
     color: #fff;
     font-weight: 600;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .You-makelike .singel-makelike .cont h4:hover{
     color: #ffc600;
@@ -2985,8 +2985,8 @@ p {
 	padding-bottom: 10px;
 	color: #000;
 	font-size: 20px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-event-list .event-cont a:hover h4 {
     color: #ffc600;
@@ -3159,8 +3159,8 @@ p {
     color: #fff;
     display: block;
     font-weight: 600;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .teachers-right .nav .nav-item a.active,
 .teachers-right .nav .nav-item a:hover{
@@ -3209,8 +3209,8 @@ p {
 .singel-blog .blog-cont h3{
     font-size: 36px;
     color: #000;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .singel-blog .blog-cont a:hover h3{
     color: #ffc600;
@@ -3289,8 +3289,8 @@ p {
 .saidbar .categories ul li a{
     color: #8a8a8a;
     font-weight: 15;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .saidbar .categories ul li a:hover{
     color: #ffc600;
@@ -3326,8 +3326,8 @@ p {
     font-size: 18px;
     color: #000;
     padding-bottom: 10px;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .saidbar .saidbar-post ul li a .singel-post .cont h6:hover{
     color: #ffc600;
@@ -3351,8 +3351,8 @@ p {
 .blog-details .cont h3 {
 	font-size: 36px;
 	color: #000;
-	-webkit-transition: all 0.4s linear;
-	transition: all 0.4s linear;
+	-webkit-transition: all 0.1s linear;
+	transition: all 0.1s linear;
 }
 .blog-details .cont ul {
 	padding: 20px 0;
@@ -3663,8 +3663,8 @@ p {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     color: #fff;
-    -webkit-transition: all 0.4s linear;
-    transition: all 0.4s linear;
+    -webkit-transition: all 0.1s linear;
+    transition: all 0.1s linear;
 }
 .shop-reviews .nav .nav-item a.active{
     background-color: #fafafa;
